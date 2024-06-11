@@ -1,12 +1,9 @@
 <h1 align="center"> 
-GET YOUTUBE SUBSCRIBERS
+YOUTUBE SUBSCRIBERS
 </h1>
 <p align="center">Node.js application to get all details of youtube subscribers.</p>
 
 
-<h2 align='center'>
-<a href='https://get-youtube-subscribers-eight.vercel.app/' target="_blank">DEMO</a>
-</h2>
 
 ## Table of Contents
 
@@ -37,7 +34,7 @@ Some features of this application :
 - **User-Friendly Setup:** Follow a straightforward setup process, enabling swift utilization of the tool.
 
 ## Tech Stack
-GET-Youtube-Subscriber is build using the following technologies:
+Youtube-Subscriber is build using the following technologies:
 
 - **Node.js:** A runtime environment that execute javaScript code on the server-side.
 - **Express.js:** A node.js framework for building web application and RESTful API.
@@ -53,11 +50,11 @@ To run this project locally, make sure you have the following installed:
 ## Installation and Run
 1. Clone the repository from GitHub:
     ```
-     git clone https://github.com/Abhi1o/GET-YOUTUBE-SUBSCRIBERS
+     git clone
     ```
 2. Redirect to the project folder:
     ```
-     cd GET-YOUTUBE-SUBSCRIBERS
+     cd Youtube-Subscribers
     ```
 3. Install the required dependencies:
     ```
