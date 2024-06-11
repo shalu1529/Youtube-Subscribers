@@ -13,11 +13,6 @@ YOUTUBE SUBSCRIBERS
 - [Prerequisites ](#prerequisites)
 - [Installation & Run](#installation-and-run)
 - [API Reference ](#api-reference)
-- [Contribute ](#contribute)
-- [Contributors ](#contributors)
-- [License ](#license)
-- [Contact ](#contact)
-- [Acknowledgments ](#acknowledgments)
 
 
 ## Introduction
@@ -50,7 +45,7 @@ To run this project locally, make sure you have the following installed:
 ## Installation and Run
 1. Clone the repository from GitHub:
     ```
-     git clone
+     git clone https://github.com/shalu1529/Youtube-Subscribers.git
     ```
 2. Redirect to the project folder:
     ```
