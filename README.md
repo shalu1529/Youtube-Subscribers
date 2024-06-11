@@ -76,7 +76,7 @@ To run this project locally, make sure you have the following installed:
 
 
 ## API Reference
-Following API endpoints for retrieving subscribers information using the GET method. For more refer to the [API-Documentation](./API-Documentation.md).
+Following API endpoints for retrieving subscribers information using the GET method. 
 
 - `/subscribers`: Retrieve a list of all subscribers with their ID, name, subscribed channel and date.
 - `/subscribers/names`: Obtain subscribers name along with the channel they are subscribed to.
